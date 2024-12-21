@@ -1,0 +1,15 @@
+{
+    "V1": [
+        "\\V1\\main.py",
+        "ursina+-+perlin_noise",
+        false,
+        "V1"
+    ],
+
+    "V2": [
+        "\\V2\\main-v2.py",
+        "ursina+-+perlin_noise+-+socket+-+threading+-+argparse",
+        true,
+        "V2"
+    ]
+}
