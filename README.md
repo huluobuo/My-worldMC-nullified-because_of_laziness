@@ -15,3 +15,4 @@
 
 ### OTHER    其他
 - Please unzip the python310.zip to the current folder first.    请先解压python310.zip到当前文件夹
+- Comment: I'm too lazy to change it.                            注释我懒得改
